@@ -7711,7 +7711,7 @@ Show # %DS5 $type->currency->stackedsplintershigh $tier->t2
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
 	SetBackgroundColor 201 192 187 255
-CustomAlertSound "divcards.wav" 300
+CustomAlertSound "flippy.wav" 300
 
 #Show # %DS4 $type->currency->stackedsplintershigh $tier->t3
 #	StackSize >= 2
